@@ -28,6 +28,14 @@
   font-weight: 500;
   font-size: 18px;
 }
+.hero .btn-branding:hover {
+  background-color: #6c63ff;
+  padding: 18px 30px;
+  border-radius: 4px;
+  font-family: "Poppins", serif;
+  font-weight: 500;
+  font-size: 18px;
+}
 p {
   font-family: "Poppins", serif;
   font-size: 18px;
