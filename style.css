@@ -28,3 +28,33 @@
   font-weight: 500;
   font-size: 18px;
 }
+p {
+  font-family: "Poppins", serif;
+  font-size: 18px;
+}
+.col h2 {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-size: 64px;
+  text-align: center;
+}
+.col p {
+  font-family: "Poppins", serif;
+  font-size: 16px;
+  line-height: 30px;
+  color: #6c757d;
+}
+.app-text {
+  padding: 120px 60px;
+}
+.app-text .btn-app {
+  color: #6c63ff;
+  border: #6c63ff solid 1px;
+  border-radius: 4px;
+  padding: 18px 30px;
+}
+.app-text .btn-app:hover {
+  border: #6c63ff solid 1px;
+  border-radius: 4px;
+  padding: 18px 30px;
+}
