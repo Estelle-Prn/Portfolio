@@ -1,8 +1,24 @@
-h1 {
+.hero {
+  text-align: center;
+  background-color: #f9f7fd;
+  padding: 160px 20px;
+}
+.hero h1 {
   font-family: "Playfair Display", serif;
   font-weight: 700;
+  font-size: 96px;
+  font-style: normal;
 }
-p {
+.hero h2 {
   font-family: "Poppins", serif;
-  font-weight: 500;
+  font-weight: 400;
+  font-size: 24px;
+}
+.hero p {
+  font-family: "Poppins", serif;
+  font-weight: 700;
+  font-size: 36px;
+}
+.btn-branding {
+  background-color: #6c63ff;
 }
