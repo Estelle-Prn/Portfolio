@@ -100,6 +100,22 @@ h1 {
 .work-title {
   font-size: 64px;
 }
+.work-description {
+  text-align: center;
+}
+.work-name-text {
+  font-family: "Poppins", serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 24px;
+}
+.work-text {
+  font-family: "Poppins", serif;
+  font-size: 14px;
+  line-height: 30px;
+  color: #6c757d;
+}
+
 @media (max-width: 768px) {
   .hero {
     padding: 80px 20px;
