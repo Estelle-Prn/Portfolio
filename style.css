@@ -115,6 +115,26 @@ h1 {
   line-height: 30px;
   color: #6c757d;
 }
+.contact-container {
+  padding: 160px 20px;
+  margin: auto 106.5px;
+}
+.contact-title {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-size: 64px;
+  font-style: normal;
+}
+.contact-media {
+  font-family: "Poppins", serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 24px;
+}
+.contact-links {
+  font-family: "Poppins", serif;
+  font-style: normal;
+}
 
 @media (max-width: 768px) {
   .hero {
