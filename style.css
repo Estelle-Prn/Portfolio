@@ -88,7 +88,18 @@ p {
   border-radius: 4px;
   padding: 15px 30px;
 }
-
+h1 {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-size: 96px;
+  font-style: normal;
+}
+.work-container {
+  padding: 160px 20px;
+}
+.work-title {
+  font-size: 64px;
+}
 @media (max-width: 768px) {
   .hero {
     padding: 80px 20px;
