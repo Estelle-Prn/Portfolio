@@ -65,3 +65,24 @@ p {
   border-radius: 4px;
   padding: 18px 30px;
 }
+@media (max-width: 576px) {
+  .hero {
+    padding: 80px 20px;
+  }
+  .hero h1 {
+    font-size: 60px;
+  }
+  .hero h2 {
+    font-size: 18px;
+  }
+  .hero p {
+    font-size: 24px;
+  }
+  .col h2 {
+    font-size: 50px;
+    text-align: center;
+  }
+  .app-text {
+    padding: 40px 20px;
+  }
+}
