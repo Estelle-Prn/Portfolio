@@ -45,6 +45,11 @@ p {
   font-weight: 700;
   font-size: 64px;
 }
+.col h5 {
+  font-family: "Poppins", serif;
+  font-weight: 700;
+  font-style: normal;
+}
 .col p {
   font-family: "Poppins", serif;
   font-size: 16px;
@@ -52,7 +57,7 @@ p {
   color: #6c757d;
 }
 .app-text {
-  padding: 120px 60px;
+  padding: 100px 60px;
 }
 .app-text .btn-app {
   color: #6c63ff;
@@ -65,7 +70,26 @@ p {
   border-radius: 4px;
   padding: 18px 30px;
 }
-@media (max-width: 576px) {
+.about-description {
+  padding: 160px 20px;
+}
+.app-text-about {
+  margin: 30px;
+}
+.app-text-about .btn-about {
+  color: white;
+  background-color: #6c63ff;
+  border-radius: 4px;
+  padding: 15px 30px;
+  font-size: 18px;
+}
+.app-text-about .btn-about:hover {
+  background-color: #6c63ff;
+  border-radius: 4px;
+  padding: 15px 30px;
+}
+
+@media (max-width: 768px) {
   .hero {
     padding: 80px 20px;
   }
