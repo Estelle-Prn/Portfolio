@@ -1,3 +1,20 @@
+.navbar-container {
+  padding: 20px;
+}
+
+.navbar-container li {
+  font-family: "Poppins", serif;
+  list-style: none;
+  display: inline;
+  padding-left: 15px;
+}
+.navbar-container a {
+  text-decoration: none;
+  color: black;
+}
+.navbar-container .active {
+  color: #6c63ff;
+}
 .hero {
   text-align: center;
   background-color: #f9f7fd;
