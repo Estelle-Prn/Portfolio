@@ -194,4 +194,10 @@ h1 {
   .navbar-container img {
     width: 30px;
   }
+  .about-description {
+    padding: 30px;
+  }
+  .work-container {
+    padding: 50px;
+  }
 }
